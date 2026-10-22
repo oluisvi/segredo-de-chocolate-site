@@ -2,6 +2,8 @@
 
 Protótipo de uma página de apresentação e catálogo com três direções alternáveis:
 
+![Apresentação do protótipo](docs/apresentacao.png)
+
 1. **Editorial** — hero fotográfico, navegação por categorias e cartões de produtos.
 2. **Menu da casa** — composição de cardápio impresso em campo de cacau, com duas colunas.
 3. **Catálogo** — busca, filtros e lista de interesses para iniciar uma consulta no WhatsApp.
