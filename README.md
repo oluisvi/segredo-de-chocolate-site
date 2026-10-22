@@ -2,7 +2,7 @@
 
 Protótipo de uma página de apresentação e catálogo com três direções alternáveis:
 
-![Apresentação do protótipo](docs/apresentacao.png)
+![Prancha de apresentação do projeto](docs/apresentacao-projeto.png)
 
 1. **Editorial** — hero fotográfico, navegação por categorias e cartões de produtos.
 2. **Menu da casa** — composição de cardápio impresso em campo de cacau, com duas colunas.
